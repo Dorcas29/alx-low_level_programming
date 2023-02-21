@@ -1,6 +1,5 @@
 #include "main.h"
 
-
 /**
  * main - check the code.
  *
@@ -9,7 +8,6 @@
 int main(void)
 {
     int r;
-
 
     r = _islower('H');
     _putchar(r + '0');
